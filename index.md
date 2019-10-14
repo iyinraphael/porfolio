@@ -14,7 +14,6 @@
 ---
 [Itunes API](https://github.com/iyinraphael/Simple-iTunes-media-App/)
 <img src="images/itunes.png?raw=true"/>
-
 ---
 
 ### Web links to projects 
