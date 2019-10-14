@@ -12,18 +12,18 @@
 <img src="images/manaje.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Itunes API](http://example.com/)
+<img src="images/itunes.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Web links to projects 
 
 - [Airbnb Price Navigator](https://pricenavigator.netlify.com/)
 - [Manaje](https://manaje-refactor.netlify.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Itunes API on github](https://github.com/iyinraphael/Simple-iTunes-media-App/)
+- [Airbnb Price Navigator on github](https://github.com/iyinraphael/Airbnb-Price-Navigator/)
+- [Manaje on github](https://github.com/labs11-teamhome3/labs11-teamhome3iOS/)
 
 ---
 
