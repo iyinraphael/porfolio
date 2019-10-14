@@ -2,9 +2,9 @@
 
 ---
 
-### Airbnb Price Navigator 
+### iOS APPS 
 
-[Project 1 Title](/sample_page)
+[Airbnb Price Navigator](/sample_page)
 <img src="price-nav.png?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](https://pricenavigator.netlify.com/)
+- [Airbnb Price Navigator](https://pricenavigator.netlify.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
