@@ -8,8 +8,8 @@
 <img src="price-nav.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Manaje](/pdf/sample_presentation.pdf)
+<img src="images/manaje.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Airbnb Price Navigator](https://pricenavigator.netlify.com/)
-- [Project 2 Title](http://example.com/)
+- [Manaje](https://manaje-refactor.netlify.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
