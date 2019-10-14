@@ -4,15 +4,15 @@
 
 ### iOS APPS 
 
-[Airbnb Price Navigator](/sample_page)
+[Airbnb Price Navigator](https://pricenavigator.netlify.com/)
 <img src="price-nav.png?raw=true"/>
 
 ---
-[Manaje](/pdf/sample_presentation.pdf)
+[Manaje](https://manaje-refactor.netlify.com/)
 <img src="images/manaje.png?raw=true"/>
 
 ---
-[Itunes API](http://example.com/)
+[Itunes API](https://github.com/iyinraphael/Simple-iTunes-media-App/)
 <img src="images/itunes.png?raw=true"/>
 
 ---
