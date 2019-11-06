@@ -4,17 +4,17 @@
 
 ### iOS APPS 
 
-[Airbnb Price Navigator](https://pricenavigator.netlify.com/) is an app that uses Machine Learnig help Airbnb homeowners find the value of their property within a zipcode.
+[Airbnb Price Navigator](https://pricenavigator.netlify.com/) is an app that uses Machine Learning to predict price for Airbnb homeowners by finding the value of their property within a zipcode. The iOS App was build by me and the web version built by some other colleagues in Lambda School for built week. The App will be available on the App Store soon!
+#### Primary Framework: 
+      Programmatic UI, UIKit, Charts, CoreData.
 <img src="price-nav.png?raw=true"/>
 
 ---
-[Manaje](https://manaje-refactor.netlify.com/)
-<img src="images/manaje.png?raw=true"/>
+[Manaje](https://manaje-refactor.netlify.com/) is an app built by a team of 7 in Lambda School which included [Ivan Cladwell](https://twitter.com/Ivan__Caldwell) and I on the iOS. It's an app that helps team leader create task, monitor task and manage team members. It also has a web version.
+#### Primary Framework: 
+  Apollo Graphql client, Auth0, Cloudinary, Material
 
----
-[Itunes API](https://github.com/iyinraphael/Simple-iTunes-media-App/)
-<img src="images/itunes.png?raw=true"/>
----
+<img src="images/manaje.png?raw=true"/>
 
 ### Web links to projects 
 
