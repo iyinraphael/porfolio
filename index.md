@@ -11,9 +11,9 @@
 <img src="price-nav.png?raw=true"/>
 
 ---
-[Manaje](https://manaje-refactor.netlify.com/) is an app built by a team of 7 in Lambda School which included [Ivan Cladwell](https://twitter.com/Ivan__Caldwell) and I on the iOS. It's an app that helps team leader create task, monitor task and manage team members. It also has a web version.
+[Manaje](https://manaje-refactor.netlify.com/) is an app built by a team of 7 in Lambda School which included Ivan Cladwell and I on the iOS. It's an app that helps team leader create task, monitor task and manage team members. It also has a web version.
 #### Primary Framework: 
-      Apollo Graphql client, Auth0, Cloudinary, Material.
+      Apollo Graphql client, Auth0, Google Sign-in, Cloudinary, Material.
 
 <img src="images/manaje.png?raw=true"/>
 
@@ -21,7 +21,6 @@
 
 - [Airbnb Price Navigator](https://pricenavigator.netlify.com/)
 - [Manaje](https://manaje-refactor.netlify.com/)
-- [Itunes API on github](https://github.com/iyinraphael/Simple-iTunes-media-App/)
 - [Airbnb Price Navigator on github](https://github.com/iyinraphael/Airbnb-Price-Navigator/)
 - [Manaje on github](https://github.com/labs11-teamhome3/labs11-teamhome3iOS/)
 
