@@ -12,7 +12,7 @@
 ---
 [Manaje](https://manaje-refactor.netlify.com/) is an app built by a team of 7 in Lambda School which included [Ivan Cladwell](https://twitter.com/Ivan__Caldwell) and I on the iOS. It's an app that helps team leader create task, monitor task and manage team members. It also has a web version.
 #### Primary Framework: 
-  Apollo Graphql client, Auth0, Cloudinary, Material
+      Apollo Graphql client, Auth0, Cloudinary, Material
 
 <img src="images/manaje.png?raw=true"/>
 
