@@ -4,8 +4,7 @@
 
 ### iOS APPS 
 
-[Airbnb Price Navigator](https://pricenavigator.netlify.com/) 
-##### - I built this app 
+[Airbnb Price Navigator](https://pricenavigator.netlify.com/) is an app that uses Machine Learnig help Airbnb homeowners find the value of their property within a zipcode.
 <img src="price-nav.png?raw=true"/>
 
 ---
