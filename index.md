@@ -4,7 +4,8 @@
 
 ### iOS APPS 
 
-[Airbnb Price Navigator](https://pricenavigator.netlify.com/) #### - I built this app 
+[Airbnb Price Navigator](https://pricenavigator.netlify.com/) 
+##### - I built this app 
 <img src="price-nav.png?raw=true"/>
 
 ---
